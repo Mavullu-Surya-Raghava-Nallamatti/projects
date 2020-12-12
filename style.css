@@ -42,6 +42,7 @@ h1{
 
 .countdown-el{
     text-align: center;
+    flex-direction: row;
 }
 
 .countdown-el span{
